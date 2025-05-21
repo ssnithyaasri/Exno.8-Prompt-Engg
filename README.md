@@ -1,4 +1,4 @@
-# Exno.8-Prompt-Engg
+# Exno.8-Prompt-Engineering
 # Date:
 # Register no:212222230100
 # Aim:
