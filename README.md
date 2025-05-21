@@ -22,7 +22,7 @@ Use natural language descriptions to specify the desired audio.
 "A soothing piano melody with background rain sounds, perfect for meditation."
 
 🔹 Applications:
-Music generation for relaxation apps.
+Music generation suno.com apps.
 
 Ambient soundscapes in games or virtual environments.
 
@@ -34,7 +34,7 @@ Describe style, genre, or influences.
 "Create a hip-hop beat in the style of 90s East Coast rap with heavy bass."
 
 🔹 Applications:
-Creating music tracks in a particular genre or era.
+Creating music tracks in a particular genre or era using suno.com.
 
 Mimicking stylistic patterns for covers or remixes.
 
@@ -46,7 +46,7 @@ Use technical details like tempo, key, pitch, emotion, or speaker profile.
 "Narrate the female voice, 25–35 years old, with a happy tone and medium speed."
 
 🔹 Applications:
-Personalized voice assistants.
+Personalized voice assistant Riffusions.
 
 Emotion-adaptive storytelling.
 
@@ -70,7 +70,7 @@ Generate voice:
 "Sing the chorus in a soft, male voice."
 
 🔹 Applications:
-End-to-end song generation.
+   suno.ai.
 
 Audiobooks with custom voices and background music.
 
@@ -86,48 +86,32 @@ Consistent sound design in films/games.
 
 Audio branding with style matching.
 
-# 6. Instructional Prompting
-🔹 Purpose:
-Give direct commands for audio editing or transformation.
 
-🔹 Prompt:
-"Convert this upbeat narration into a sad, reflective tone."
-
-🔹 Applications:
-Reuse same content for different contexts.
-
-Multi-language or multi-tone adaptations.
-
-# 7. Multilingual/Accent Prompting
+# 6. Multilingual/Accent Prompting
 🔹 Purpose:
 Specify language and accent features.
 
 🔹 Prompt:
 "Read this sentence in Japanese with a Tokyo accent."
+Dogs are friendly and loyal animals that make great companions.
+They come in many breeds, sizes, and colors.
+Dogs can be trained to help people in many ways, like guiding or guarding.
+They are known for their strong sense of smell and hearing.
+Dogs bring joy, love, and protection to families around the world.
 
 🔹 Applications:
-Multilingual voiceovers.
+          camb.ai
 
 Globalized virtual assistants and chatbots.
 
-#  8. Emotion-Based Prompting
-🔹 Purpose:
-Add emotional nuance to voices or sounds.
 
-🔹 Prompt:
-"A terrified whisper: 'It’s right behind me…'"
-
-🔹 Applications:
-Voice acting for games and animation.
-
-Immersive learning or training simulations.
 
 
  # AI Models Supporting These Techniques
 
 | Task                       | AI Model Examples                                       |
 | -------------------------- | ------------------------------------------------------- |
-| **Music Generation**       | MusicLM (Google), Riffusion, Jukebox (OpenAI), MusicGen |
+| **Music Generation**       | MusicLM (Google), Riffusion, Jukebox (OpenAI), MusicGen ,suno|
 | **Voice Generation**       | Bark (Suno), ElevenLabs, Voicebox (Meta), Tortoise TTS  |
 | **Sound Effects**          | AudioLDM, DiffSound                                     |
 | **Editing/Transformation** | Descript Overdub, Adobe Podcast, VoiceAI Studio         |
