@@ -43,7 +43,7 @@ Mimicking stylistic patterns for covers or remixes.
 Use technical details like tempo, key, pitch, emotion, or speaker profile.
 
 🔹 Prompt:
-"Narrate this in a female voice, 25–35 years old, with a happy tone and medium speed."
+"Narrate the female voice, 25–35 years old, with a happy tone and medium speed."
 
 🔹 Applications:
 Personalized voice assistants.
